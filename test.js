@@ -1,4 +1,4 @@
-function () {
+(function () {
   var out = document.getElementById('out');
   function log(label, ok, detail) {
     var li = document.createElement('li');
